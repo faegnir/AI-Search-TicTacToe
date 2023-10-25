@@ -2,9 +2,6 @@
 
 This repository contains a Tic-Tac-Toe game with an AI opponent that uses the Minimax algorithm. The AI plays optimally and ensures that you can't beat it if you both make the best moves.
 
-![Main Screen](main_screen.png) ![Game Over Screen](game_over.png)
-
-
 ## Project Overview
 
 This project consists of two main components:
@@ -24,6 +21,14 @@ The AI and game logic are implemented in the `tictactoe.py` module. The followin
 - `terminal(board)`: Checks if the game is over.
 - `utility(board)`: Computes the utility of the board (1 for X, -1 for O, 0 for a tie).
 - `minimax(board)`: Finds the optimal move for the AI using the Minimax algorithm with alpha-beta pruning.
+
+## Screenshots
+
+<p align="center">
+  <img alt="Main Screen" src="main_screen.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Game Over Screen" src="game_over.png" width="45%">
+</p>
 
 ## How to Play
 
