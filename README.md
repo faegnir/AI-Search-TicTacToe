@@ -2,11 +2,8 @@
 
 This repository contains a Tic-Tac-Toe game with an AI opponent that uses the Minimax algorithm. The AI plays optimally and ensures that you can't beat it if you both make the best moves.
 
-![Main Screen](main_screen.png)
-*Main screen of the Tic-Tac-Toe game.*
+![Main Screen](main_screen.png) ![Game Over Screen](game_over.png)
 
-![Game Over Screen](game_over.png)
-*Game Over screen displayed when the game ends.*
 
 ## Project Overview
 
